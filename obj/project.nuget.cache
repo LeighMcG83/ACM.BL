@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sljFbwEOz2AiIkRCVKF5e8R9wmCldXpPm4B78jaOdp/TqiQn8VV3HrWaI1/arQDayYaZ5RiDKE4C+/WmETkexw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bmcguinness86\\OneDrive - Institute of Technology Sligo\\Programming_2\\practice\\classes\\OOP\\Pluralsight\\ACM.BL\\ACM.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bmcguinness86\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bmcguinness86\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

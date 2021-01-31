@@ -1,0 +1,9 @@
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.deps.json
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\bin\Debug\netstandard2.0\ACM.BL.pdb
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csprojAssemblyReference.cache
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfoInputs.cache
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.AssemblyInfo.cs
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.csproj.CoreCompileInputs.cache
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.dll
+C:\Users\bmcguinness86\OneDrive - Institute of Technology Sligo\Programming_2\practice\classes\OOP\Pluralsight\ACM.BL\obj\Debug\netstandard2.0\ACM.BL.pdb
