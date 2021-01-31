@@ -9,7 +9,7 @@
  
  Classes and Methods Featured.: 
   - Address class
-    -Validate()
+    - Validate()
     
   - AddressRepsitory class
     - Retrieve()    
